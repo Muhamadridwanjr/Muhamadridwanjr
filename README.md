@@ -1,238 +1,323 @@
 <div align="center">
 
-<!-- Dynamic Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhamad%20Ridwan&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Founder%20%7C%20Golden%20Dragon%20Ecosystem%20%7C%20AI%20Systems%20Architect&descAlignY=55&descSize=18"/>
+<!-- ═══════════════════════════════════════════════ -->
+<!--              ANIMATED HEADER BANNER             -->
+<!-- ═══════════════════════════════════════════════ -->
 
-<!-- Dynamic Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7B731&center=true&vCenter=true&width=700&lines=🐉+Building+the+Golden+Dragon+Ecosystem;🤖+AI+Agent+Architect+%26+Systems+Designer;⚡+Workflow+Automation+Engineer;📈+Trading+Intelligence+Developer;🧠+Multi-Agent+AI+Orchestration+Expert;🌐+Open+Source+Infrastructure+Builder" alt="Typing SVG" />
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,8,12,24&height=280&section=header&text=Muhamad%20Ridwan&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=🐉%20Founder%20%7C%20Golden%20Dragon%20Ecosystem%20%7C%20AI%20Security%20%26%20Systems%20Architect&descAlignY=62&descSize=17&stroke=F7B731&strokeWidth=3"/>
 
 <br/>
 
-<!-- Social Badges -->
-[![Website](https://img.shields.io/badge/🌐_Website-muhamadridwanjr.xyz-F7B731?style=for-the-badge&logoColor=white)](https://muhamadridwanjr.xyz)
-[![GitHub followers](https://img.shields.io/github/followers/Muhamadridwanjr?style=for-the-badge&color=F7B731&labelColor=1a1a2e)](https://github.com/Muhamadridwanjr)
-[![Location](https://img.shields.io/badge/🇮🇩_Indonesia-Bandung-red?style=for-the-badge)](https://github.com/Muhamadridwanjr)
+<!-- TYPING ANIMATION -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=F7B731&center=true&vCenter=true&multiline=false&width=750&height=45&lines=🐉+Building+Golden+Dragon+Ecosystem;🛡️+Creator+of+GPIWD+%E2%80%94+Open+Source+AI+Security;🤖+AI+Agent+Architect+%26+Systems+Engineer;⚡+Workflow+Automation+%26+AI+Infrastructure;📈+Trading+Intelligence+%26+Market+Systems;🔒+Protecting+APIs%2C+Agents+%26+Infrastructure" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<!-- PROFILE VIEWS COUNTER + BADGES -->
+<img src="https://komarev.com/ghpvc/?username=Muhamadridwanjr&label=Profile+Views&color=F7B731&style=for-the-badge" alt="Profile Views"/>
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/Muhamadridwanjr?style=for-the-badge&color=F7B731&labelColor=0d1117&logo=github)](https://github.com/Muhamadridwanjr?tab=followers)
+&nbsp;
+[![Website](https://img.shields.io/badge/🌐-muhamadridwanjr.xyz-F7B731?style=for-the-badge&labelColor=0d1117)](https://muhamadridwanjr.xyz)
+&nbsp;
+[![Location](https://img.shields.io/badge/🇮🇩-Indonesia-FF0000?style=for-the-badge&labelColor=0d1117)](https://github.com/Muhamadridwanjr)
 
 </div>
 
 ---
 
-## 🐉 About Me — The Architect Behind Golden Dragon
-
-> *"Machines should think. Humans should create. Systems should scale."*
-
-I'm **Muhamad Ridwan** — a self-driven AI systems architect, automation engineer, and open-source builder based in **Indonesia 🇮🇩**.
-
-I founded **Golden Dragon Ecosystem (GDE)** — a modular, production-grade AI infrastructure initiative designed to democratize access to intelligent automation, trading intelligence, and autonomous agent systems for developers, traders, and builders across Southeast Asia and beyond.
-
-My work sits at the intersection of:
-- 🧠 **Artificial Intelligence** — multi-agent reasoning, LLM orchestration, decision intelligence
-- ⚡ **Automation Engineering** — end-to-end workflow pipelines, event-driven systems
-- 📈 **Quantitative Trading** — algorithmic strategies, risk management, market signal processing
-- ☁️ **Infrastructure Architecture** — cloud-native deployment, container orchestration, VPS management
-- 🤝 **Community-First Open Source** — building tools that real developers actually need
-
-I don't just write code. I build **ecosystems**.
-
----
-
-## 🏗️ Golden Dragon Ecosystem — Core Projects
+<!-- ═══════════════════════════════════════════════ -->
+<!--               SNAKE CONTRIBUTION GRAPH          -->
+<!-- ═══════════════════════════════════════════════ -->
 
 <div align="center">
 
-| Project | Status | Description |
-|---|---|---|
-| 🚀 **GAS Strategy AI** | `Active` | AI-powered trading intelligence & market signal engine |
-| 🤖 **GAS Telegram Bot v3** | `Active` | Production-grade Telegram automation with AI decision layer |
-| 🧠 **Golden Brain** | `In Dev` | Multi-agent reasoning & AI orchestration system |
-| ☁️ **GDE Infrastructure** | `Active` | Cloud automation, VPS provisioning & monitoring toolkit |
-| 🔌 **GDE Plugin Ecosystem** | `Planned` | Extensible plugin architecture for community contributions |
-| 📊 **GDE Dashboard** | `Planned` | Unified control panel for all GDE systems |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhamadridwanjr/Muhamadridwanjr/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muhamadridwanjr/Muhamadridwanjr/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Muhamadridwanjr/Muhamadridwanjr/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
 
 </div>
 
-### 🚀 [GAS Strategy AI](https://github.com/Muhamadridwanjr)
-> **AI-Powered Trading Intelligence Platform**
+---
 
-A sophisticated quantitative intelligence system that combines real-time market data processing with AI-driven signal generation. Built for traders who demand precision, speed, and automation. Features include:
-- 📊 Multi-timeframe technical analysis with AI interpretation
-- ⚠️ Adaptive risk management with dynamic position sizing
-- 🔔 Real-time signal alerts via Telegram integration
-- 📉 Backtesting engine with performance analytics dashboard
-- 🤖 Autonomous trade management with configurable AI agents
+<!-- ═══════════════════════════════════════════════ -->
+<!--                    ABOUT ME                     -->
+<!-- ═══════════════════════════════════════════════ -->
 
-### 🤖 [GAS Telegram Bot v3](https://github.com/Muhamadridwanjr)
-> **Production-Grade Automation Framework**
+## 🐉 The Architect Behind Golden Dragon
 
-A battle-tested, enterprise-ready Telegram bot framework built for serious automation workflows. This isn't a simple chatbot — it's a full automation runtime:
-- 🏗️ Modular plugin architecture with hot-reload capability
-- 🔐 Role-based access control & permission management system
-- 📡 Webhook & polling mode with automatic failover
-- 🧩 N8N workflow integration for visual automation pipelines
-- 📦 Docker-native deployment with health monitoring
+```python
+class MuhamadRidwan:
+    name        = "Muhamad Ridwan"
+    alias       = "Dragon Builder 🐉"
+    location    = "Indonesia 🇮🇩"
+    website     = "https://muhamadridwanjr.xyz"
+    
+    role        = "AI Systems Architect & Open Source Builder"
+    ecosystem   = "Golden Dragon Ecosystem (GDE)"
+    
+    building    = [
+        "GPIWD — AI Security Middleware (Open Source) 🛡️",
+        "GAS Strategy AI — Trading Intelligence Platform 📈",
+        "GAS Telegram Bot v3 — Automation Runtime 🤖",
+        "Golden Brain — Multi-Agent Orchestration System 🧠",
+    ]
+    
+    philosophy  = "Machines should think. Humans should create. Systems should scale."
+    motto       = "I don't just write code. I build ecosystems."
+```
 
-### 🧠 [Golden Brain](https://github.com/Muhamadridwanjr)
-> **Multi-Agent Reasoning & Orchestration System**
-
-An experimental yet production-oriented research project pushing the boundaries of autonomous AI systems:
-- 🕸️ Graph-based agent communication protocols
-- 🔄 Recursive self-improvement loops with guardrails
-- 🗄️ Long-term memory with vector database integration
-- 🎯 Goal-oriented task decomposition engine
-- 🤝 Human-in-the-loop decision escalation system
-
-### ☁️ [GDE Infrastructure Layer](https://github.com/Muhamadridwanjr)
-> **Cloud-Native Deployment & Operations Toolkit**
-
-Everything you need to deploy, monitor, and scale production AI systems:
-- 🐳 Docker Compose templates for rapid environment provisioning
-- 📊 Real-time metrics with custom alerting pipelines
-- 🔧 Automated VPS hardening & configuration management
-- 💾 Backup orchestration with disaster recovery workflows
-- 🌐 Reverse proxy automation with SSL management
+I founded **Golden Dragon Ecosystem (GDE)** — a modular, production-grade AI infrastructure initiative focused on:
+- 🛡️ **AI Security** — open source security middleware protecting APIs and AI agents
+- 🤖 **Autonomous Agents** — multi-agent reasoning, orchestration, decision intelligence
+- ⚡ **Automation** — event-driven workflows, Telegram platforms, N8N integration
+- 📈 **Trading Intelligence** — market signal processing, quant strategies, risk automation
+- ☁️ **Infrastructure** — cloud-native deployment, container orchestration, VPS management
 
 ---
+
+<!-- ═══════════════════════════════════════════════ -->
+<!--          🔥 FEATURED: GPIWD OPEN SOURCE         -->
+<!-- ═══════════════════════════════════════════════ -->
+
+## 🔥 Featured Open Source — GPIWD Dragon
+
+<div align="center">
+
+<a href="https://github.com/Muhamadridwanjr/GPIWD-Dragon">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,8&height=3&section=header" width="100%"/>
+</a>
+
+</div>
+
+> ### 🛡️ **[GPIWD-Dragon](https://github.com/Muhamadridwanjr/GPIWD-Dragon)** — Growth Protocol Intelligence WaterWall Defence
+> *Your Server Has An Immune System.*
+
+<div align="center">
+
+[![GPIWD Stars](https://img.shields.io/github/stars/Muhamadridwanjr/GPIWD-Dragon?style=for-the-badge&color=F7B731&labelColor=0d1117&logo=github)](https://github.com/Muhamadridwanjr/GPIWD-Dragon/stargazers)
+[![GPIWD Forks](https://img.shields.io/github/forks/Muhamadridwanjr/GPIWD-Dragon?style=for-the-badge&color=F7B731&labelColor=0d1117&logo=git)](https://github.com/Muhamadridwanjr/GPIWD-Dragon/forks)
+[![GPIWD Issues](https://img.shields.io/github/issues/Muhamadridwanjr/GPIWD-Dragon?style=for-the-badge&color=FF6B6B&labelColor=0d1117)](https://github.com/Muhamadridwanjr/GPIWD-Dragon/issues)
+[![License](https://img.shields.io/github/license/Muhamadridwanjr/GPIWD-Dragon?style=for-the-badge&color=00C851&labelColor=0d1117)](https://github.com/Muhamadridwanjr/GPIWD-Dragon/blob/main/LICENSE)
+
+</div>
+
+GPIWD adalah **open-source adaptive security middleware** yang berdiri antara internet dan aplikasimu. Tidak hanya memblokir — GPIWD **belajar dari setiap serangan** dan semakin kuat seiring waktu.
+
+```
+🔴 Firewall biasa   →  Block berdasarkan rules statis
+🟡 WAF biasa        →  Deteksi berdasarkan signature
+🟢 GPIWD            →  Signature + Behavior + Anomaly + AI Learning
+```
+
+### 🏗️ Architecture — 8 Security Layers
+
+```
+Internet → Cloudflare → [GPIWD Gateway :7777]
+                              │
+              ┌───────────────┼───────────────────┐
+              │               │                   │
+      ┌───────┴──────┐ ┌──────┴──────┐  ┌─────────┴────────┐
+      │  L1: Identity│ │  L2: Network│  │  L3: WAF Core    │
+      │  IP Reputation│ │  Rate Limit │  │  SQLi/XSS/SSRF  │
+      └──────────────┘ └─────────────┘  └──────────────────┘
+              │               │                   │
+      ┌───────┴──────┐ ┌──────┴──────┐  ┌─────────┴────────┐
+      │  L4: Auth    │ │  L5: AI 🔥  │  │  L6: AISURU      │
+      │  JWT/API Key │ │  Prompt Inj │  │  Anomaly Learn   │
+      └──────────────┘ └─────────────┘  └──────────────────┘
+              │                                   │
+      ┌───────┴──────────────────────────────────┴┐
+      │              Target Application             │
+      └─────────────────────────────────────────────┘
+```
+
+### ✨ What Makes GPIWD Different
+
+| Feature | Firewall | WAF | **GPIWD** |
+|---|---|---|---|
+| IP Blocking | ✅ | ✅ | ✅ |
+| Signature Detection | ❌ | ✅ | ✅ |
+| Behavior Analysis | ❌ | ❌ | ✅ |
+| Anomaly Learning | ❌ | ❌ | ✅ |
+| **AI Agent Protection** | ❌ | ❌ | **✅ 🔥** |
+| **Prompt Injection Guard** | ❌ | ❌ | **✅ 🔥** |
+| **Jailbreak Detection** | ❌ | ❌ | **✅ 🔥** |
+| Self-Learning (AISURU) | ❌ | ❌ | ✅ |
+
+<div align="center">
+
+**[⭐ Star GPIWD-Dragon](https://github.com/Muhamadridwanjr/GPIWD-Dragon) · [🍴 Fork & Contribute](https://github.com/Muhamadridwanjr/GPIWD-Dragon/fork) · [📖 Read the Docs](https://github.com/Muhamadridwanjr/GPIWD-Dragon/blob/main/README.md)**
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════ -->
+<!--              OTHER GDE PROJECTS                 -->
+<!-- ═══════════════════════════════════════════════ -->
+
+## 🏗️ Golden Dragon Ecosystem — All Projects
+
+<div align="center">
+
+| Project | Status | Stars | Description |
+|---|---|---|---|
+| 🛡️ **[GPIWD-Dragon](https://github.com/Muhamadridwanjr/GPIWD-Dragon)** | ![Active](https://img.shields.io/badge/-Active-00C851?style=flat-square) | [![stars](https://img.shields.io/github/stars/Muhamadridwanjr/GPIWD-Dragon?style=flat-square&color=F7B731)](https://github.com/Muhamadridwanjr/GPIWD-Dragon) | Open Source AI Security Middleware |
+| 🚀 **GAS Strategy AI** | ![Active](https://img.shields.io/badge/-Active-00C851?style=flat-square) | — | AI Trading Intelligence Platform |
+| 🤖 **GAS Telegram Bot v3** | ![Active](https://img.shields.io/badge/-Active-00C851?style=flat-square) | — | Production Automation Runtime |
+| 🧠 **Golden Brain** | ![Dev](https://img.shields.io/badge/-In_Dev-F7B731?style=flat-square) | — | Multi-Agent Orchestration System |
+| 📊 **GDE Dashboard** | ![Planned](https://img.shields.io/badge/-Planned-888?style=flat-square) | — | Unified Ecosystem Control Panel |
+| 🔌 **GDE Plugins** | ![Planned](https://img.shields.io/badge/-Planned-888?style=flat-square) | — | Community Plugin Ecosystem |
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════ -->
+<!--               TECH ARSENAL                      -->
+<!-- ═══════════════════════════════════════════════ -->
 
 ## 💻 Technology Arsenal
 
 <div align="center">
 
-### Languages & Runtimes
+**Languages & Runtimes**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-### AI & Machine Learning
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+**AI & Security**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic_Claude-D97706?style=for-the-badge)
 ![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### Databases & Storage
+**Databases & Infrastructure**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Infrastructure & DevOps
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### Automation & Integration
+**Automation & Integration**
+
 ![Telegram](https://img.shields.io/badge/Telegram_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 ![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Webhook](https://img.shields.io/badge/Webhooks-FF6B6B?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
 ---
+
+<!-- ═══════════════════════════════════════════════ -->
+<!--              GITHUB ANALYTICS                   -->
+<!-- ═══════════════════════════════════════════════ -->
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muhamadridwanjr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&bg_color=0d1117&title_color=F7B731&icon_color=F7B731&text_color=c9d1d9&border_color=30363d"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhamadridwanjr&layout=compact&langs_count=8&theme=tokyonight&bg_color=0d1117&title_color=F7B731&text_color=c9d1d9&border_color=30363d&border_radius=12"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muhamadridwanjr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&bg_color=0d1117&title_color=F7B731&icon_color=F7B731&text_color=c9d1d9&border_color=F7B731&hide_border=false"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhamadridwanjr&layout=compact&langs_count=8&theme=tokyonight&bg_color=0d1117&title_color=F7B731&text_color=c9d1d9&border_color=F7B731&border_radius=12"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Muhamadridwanjr&theme=tokyonight&hide_border=false&border_radius=12&background=0D1117&stroke=F7B731&ring=F7B731&fire=FF6B6B&currStreakLabel=F7B731&sideLabels=c9d1d9&dates=c9d1d9&border=30363d)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Muhamadridwanjr&theme=tokyonight&hide_border=false&border_radius=12&background=0D1117&stroke=F7B731&ring=F7B731&fire=FF6B6B&currStreakLabel=F7B731&sideLabels=c9d1d9&dates=c9d1d9&border=F7B731)](https://git.io/streak-stats)
 
 </div>
-
----
-
-## 🗺️ Vision & Mission
-
-> **Vision**: To build an open-source AI infrastructure where autonomous agents, intelligent automation, and decision intelligence systems work in concert — empowering developers, traders, creators, and businesses to operate at unprecedented scale.
-
-> **Mission**: Democratize access to production-grade AI tooling through community-driven open source development, rigorous engineering standards, and builder-first documentation.
-
-### What Golden Dragon Ecosystem Stands For:
-
-```
-🔓 Open Source First     — Every core tool ships as open source
-⚡ Production Ready      — Built to run 24/7, not just in demos  
-🧩 Modular Architecture  — Use one piece or the whole ecosystem
-📚 Developer Empathy     — Obsessive focus on docs & DX
-🌏 Southeast Asia Focus  — Building for our region's builders
-🤝 Community Driven      — Contributions welcome at every level
-```
-
----
-
-## 🔥 Current Focus Areas
-
-```python
-current_focus = {
-    "primary": [
-        "Multi-Agent AI Architecture Design",
-        "Production Trading Intelligence Systems", 
-        "Telegram Automation Platform Scaling"
-    ],
-    "research": [
-        "Autonomous Agent Memory Systems",
-        "Real-time Market Signal Processing",
-        "LLM Fine-tuning for Domain Intelligence"
-    ],
-    "community": [
-        "Open Source Documentation Standards",
-        "Developer Onboarding Experience",
-        "Plugin Ecosystem Architecture"
-    ],
-    "infrastructure": [
-        "Container Orchestration Patterns",
-        "Zero-downtime Deployment Workflows",
-        "Observability & Monitoring Pipelines"
-    ]
-}
-```
-
----
-
-## 📈 Contribution Activity
 
 <div align="center">
 
-[![Muhamad Ridwan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Muhamadridwanjr&theme=tokyo-night&bg_color=0d1117&color=F7B731&line=F7B731&point=FFFFFF&area=true&hide_border=false&border_color=30363d&radius=12)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Muhamad Ridwan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Muhamadridwanjr&theme=tokyo-night&bg_color=0d1117&color=F7B731&line=F7B731&point=FF6B6B&area=true&area_color=F7B731&hide_border=false&border_color=F7B731&radius=12)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## 🤝 Let's Build Together
-
-I'm always open to collaboration on:
-- 🤖 AI agent projects and multi-agent systems
-- ⚡ Automation tooling and workflow engines
-- 📈 Trading systems and quantitative finance tools
-- ☁️ Open source infrastructure projects
-- 🌐 Developer productivity tools
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-Contact_Me-F7B731?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@muhamadridwanjr.xyz)
-[![Website](https://img.shields.io/badge/Website-muhamadridwanjr.xyz-1a1a2e?style=for-the-badge&logo=firefox&logoColor=F7B731)](https://muhamadridwanjr.xyz)
-[![Telegram](https://img.shields.io/badge/Telegram-@MuhamadRidwanjr-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MuhamadRidwanjr)
-
-</div>
-
----
+<!-- ═══════════════════════════════════════════════ -->
+<!--               GITHUB TROPHIES                   -->
+<!-- ═══════════════════════════════════════════════ -->
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Muhamadridwanjr&theme=tokyonight&no-frame=false&no-bg=false&margin-w=8&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Muhamadridwanjr&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&margin-h=6&row=2&column=4&title=Stars,Followers,Commits,Repositories,Issues,PullRequest,Reviews,MultiLanguage)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════ -->
+<!--              VISION & CURRENT FOCUS             -->
+<!-- ═══════════════════════════════════════════════ -->
+
+## 🎯 Current Focus — What I'm Building
+
+```python
+# Right now, actively building:
+current_build = {
+    "🛡️ GPIWD v1.0": {
+        "status": "Active Development",
+        "goal": "Ship working open source security middleware",
+        "milestone": "Gateway + WAF + Dashboard deployed on Docker"
+    },
+    "🚀 GAS Strategy AI": {
+        "status": "Active",
+        "goal": "AI-driven signal engine for live trading",
+        "milestone": "Real-time Telegram alerts with <500ms latency"
+    },
+    "🧠 Golden Brain": {
+        "status": "Research",
+        "goal": "Multi-agent orchestration architecture",
+        "milestone": "Agent-to-agent communication protocol v1"
+    },
+}
+
+open_source_values = [
+    "🔓 Open Source First    — Core tools always free",
+    "⚡ Production Ready     — Built to run 24/7",
+    "🧩 Modular By Design    — Use any layer independently",
+    "📚 Documentation First  — Obsessive about developer experience",
+    "🌏 Built for SEA        — Empowering Indonesian builders",
+    "🤝 Community Driven     — Your PR is welcome",
+]
+```
+
+---
+
+## 🤝 Let's Build Together
+
+Looking to collaborate on:
+- 🛡️ **AI Security** — contribute to GPIWD-Dragon
+- 🤖 **AI Agents** — multi-agent systems and LLM orchestration
+- ⚡ **Automation** — workflow engines and event-driven systems
+- 📈 **Trading** — quantitative finance and market intelligence
+- ☁️ **Open Source Infrastructure** — tools builders actually need
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-contact@muhamadridwanjr.xyz-F7B731?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:contact@muhamadridwanjr.xyz)
+&nbsp;
+[![Website](https://img.shields.io/badge/Website-muhamadridwanjr.xyz-F7B731?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117)](https://muhamadridwanjr.xyz)
+&nbsp;
+[![Telegram](https://img.shields.io/badge/Telegram-Message_Me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117)](https://t.me/MuhamadRidwanjr)
 
 </div>
 
@@ -240,12 +325,22 @@ I'm always open to collaboration on:
 
 <div align="center">
 
-### 🐉 "Every great ecosystem begins with a single dragon's flame."
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20Smarter%20The%20Attack%2C%20The%20Stronger%20We%20Get&author=GPIWD%20Dragon%20🐉&border=true" alt="Quote"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<br/><br/>
 
-**⭐ If any of my projects help you, consider giving them a star — it fuels the dragon! 🐉**
+**🐉 "Every great ecosystem begins with a single dragon's flame."**
 
-*Made with 🔥 in Indonesia · Golden Dragon Ecosystem © 2024–2025*
+<br/>
+
+**⭐ If my projects help you — give them a star. It fuels the dragon!**
+
+[![GPIWD Star](https://img.shields.io/badge/⭐_Star-GPIWD--Dragon-F7B731?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Muhamadridwanjr/GPIWD-Dragon)
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,12,24&height=120&section=footer&animation=twinkling"/>
+
+*🔥 Built with passion in Indonesia 🇮🇩 · Golden Dragon Ecosystem © 2024–2025*
 
 </div>
